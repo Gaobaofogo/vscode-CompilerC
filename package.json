@@ -1,6 +1,7 @@
 {
 	"name": "compilerc",
 	"displayName": "CompilerC",
+        "publisher": "gaobaofogo",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
